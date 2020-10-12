@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexis Rivas</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-- 🔭 I’m currently working on **Zauron**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Node.js, Vue.js and Vuetify**
 
-- 👨‍💻 All of my projects are available at [alexisrv.tk](alexisrv.tk)
+- 👨‍💻 All of my projects are available at [alexisrv](alexisrv)
 
 - 📫 How to reach me **alexisrivasvilla@gmail.com**
 
